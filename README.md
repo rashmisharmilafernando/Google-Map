@@ -77,3 +77,7 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+## Google Map
+![WhatsApp Image 2023-08-10 at 15 15 47](https://github.com/rashmisharmila/Google-Map/assets/108237108/2e969f83-f390-4419-8543-c8d5de333368)
